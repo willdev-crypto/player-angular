@@ -1,0 +1,17 @@
+.container__small-card{
+    border: 1px solid white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.container-card__photo > img{
+    width: 100%;
+    min-width: 100px;
+    margin-right: 20px;
+}
+
+.small-card__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

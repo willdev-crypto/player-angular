@@ -1,0 +1,16 @@
+.menu__title__container{
+    color: rgb(67, 34, 105);
+}
+
+.menu__title__container > h1 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 80px;
+    font-family:inherit ;
+    display: flex;
+    justify-content: center;
+}
+.menu__title__container > hr{
+    margin-top: 15px;
+    margin-bottom:15px;
+}
